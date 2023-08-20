@@ -1,0 +1,38 @@
+* {
+
+    margin: 0%;
+    padding: 0%;
+    
+  
+  }
+  body{
+    background-image: url(bg-pic.jpg);
+    background-size: cover;
+  }
+  nav{
+    background-color: black   ;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .bgpic{
+  
+    display: flex;
+    justify-content: center;
+  }
+  
+  #joke {
+    
+    
+    color: goldenrod;
+  
+  }
+
+  button{
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+    color: lightcyan;
+  }
